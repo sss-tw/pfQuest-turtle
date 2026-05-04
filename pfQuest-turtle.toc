@@ -1,0 +1,17 @@
+## Interface: 11200
+## Title: |cff33ffcc[任务]|cffffffffpfQuestDB|cffff1450[4.17]
+## Title-zhCN: |cff33ffcc[任务]|cffffffffpfQuestDB|cffff1450[4.17]
+## Author: Shagu, Wind, Sunelegy, 呲不鸟，旧德二世
+## Notes: |cff33ffccpf|cffffffffQuest|R 由|cff33ffccWind|R&|cff33ffcc呲不鸟|R&|cff33ffccSunelegy|R汉化 由|cff33ffcc旧德二世|R补全新版任务。|N本插件完全免费，请勿在第三方购买！
+## Notes-zhCN: |cff33ffccpf|cffffffffQuest|R 由|cff33ffccWind|R&|cff33ffcc呲不鸟|R&|cff33ffccSunelegy|R汉化 由|cff33ffcc旧德二世|R补全新版任务。|N本插件完全免费，请勿在第三方购买！
+## Version: 7.0.2
+## Dependencies: pfQuest
+## SavedVariables: pfQuest_turtlecount
+
+init\data-turtle.xml
+init\enUS-turtle.xml
+init\zhCN-turtle.xml
+
+overwrites.lua
+
+patchtable.lua
