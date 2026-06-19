@@ -1,4 +1,4 @@
-pfDB["units"]["enUS-turtle"] = {
+﻿pfDB["units"]["enUS-turtle"] = {
   [4] = "Snowy Gryphon",
   [5] = "Ebon Gryphon",
   [7] = "*",
@@ -6655,5 +6655,12 @@ pfDB["units"]["enUS-turtle"] = {
   [1145] = "npc:1145",
   [1168] = "npc:1168",
   [1170] = "npc:1170",
-
+  [90041918] = "Hara'ne",
+  [90042139] = "Elder Sage Azh'okar",
+  [90041920] = "Maghan",
+  [90042140] = "P'li",
+  [90041949] = "Chief Defender Hamaam",
+  [90041919] = "Hara'ne",
+  [62980] = "Uz'tuk",
+  [62981] = "Lotka Muddoll",
 }
