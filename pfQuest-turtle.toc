@@ -15,3 +15,8 @@ init\zhCN-turtle.xml
 overwrites.lua
 
 patchtable.lua
+
+## X-PluginId: 6
+## X-PublishTime: 2026-07-14 04:26:02
+## X-Version: 20260714001
+## X-OverrideMode: 1
