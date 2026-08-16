@@ -1,4 +1,4 @@
-pfDB["units"]["zhCN-turtle"] = {
+﻿pfDB["units"]["zhCN-turtle"] = {
   [1] = "路径点(只有GM可见)",
   [2] = "重生点（仅GM可见）",
   [4] = "雪色狮鹫",
